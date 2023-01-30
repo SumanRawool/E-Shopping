@@ -1,4 +1,4 @@
-# E-Shopping-Online Shopping Website
+# E-Shopping
 This project has been an extraordinary opportunity for me to develop programming skills.
 <img src="images/registration.jpg">
 <img src="images/login.jpg">
